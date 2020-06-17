@@ -1,0 +1,3 @@
+include ':JFroglibrary'
+include ':app'
+rootProject.name = "JFrogExample"
